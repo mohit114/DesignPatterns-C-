@@ -1,0 +1,6 @@
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\TheIteratorPattern\obj\Debug\TheIteratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\TheIteratorPattern\bin\Debug\TheIteratorPattern.exe.config
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\TheIteratorPattern\bin\Debug\TheIteratorPattern.exe
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\TheIteratorPattern\bin\Debug\TheIteratorPattern.pdb
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\TheIteratorPattern\obj\Debug\TheIteratorPattern.exe
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\TheIteratorPattern\obj\Debug\TheIteratorPattern.pdb

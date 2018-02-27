@@ -1,0 +1,5 @@
+c:\users\mohit\documents\visual studio 2017\Projects\DesignPatters\DesignPatters\bin\Debug\DesignPatters.exe.config
+c:\users\mohit\documents\visual studio 2017\Projects\DesignPatters\DesignPatters\bin\Debug\DesignPatters.exe
+c:\users\mohit\documents\visual studio 2017\Projects\DesignPatters\DesignPatters\bin\Debug\DesignPatters.pdb
+c:\users\mohit\documents\visual studio 2017\Projects\DesignPatters\DesignPatters\obj\Debug\DesignPatters.exe
+c:\users\mohit\documents\visual studio 2017\Projects\DesignPatters\DesignPatters\obj\Debug\DesignPatters.pdb

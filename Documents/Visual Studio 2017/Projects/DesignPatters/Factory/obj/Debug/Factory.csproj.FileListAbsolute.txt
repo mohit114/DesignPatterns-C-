@@ -1,0 +1,6 @@
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\Factory\bin\Debug\Factory.exe.config
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\Factory\bin\Debug\Factory.exe
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\Factory\bin\Debug\Factory.pdb
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\Factory\obj\Debug\Factory.exe
+C:\Users\mohit\Documents\Visual Studio 2017\Projects\DesignPatters\Factory\obj\Debug\Factory.pdb
